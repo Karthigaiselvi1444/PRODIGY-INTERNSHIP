@@ -6,3 +6,9 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 
 **TASK-3:**
 Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+
+**TASK-4:**
+Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
+**TASK-5:**
+Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
